@@ -1,4 +1,4 @@
-import { APP_URL } from "@/src/lib/constants";
+import { APP_URL } from "@/lib/constants";
 import {
   SendNotificationRequest,
   sendNotificationResponseSchema,
